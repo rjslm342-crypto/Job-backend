@@ -1,13 +1,9 @@
 {
   "name": "job-backend",
   "version": "1.0.0",
-  "description": "Job profile backend for qualification and skills",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": ">=18"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.18.2",
